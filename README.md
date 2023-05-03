@@ -1,6 +1,6 @@
 # Movie Recommendation System using Spark MLlib
  
-Project Authors
+## Project Authors
 ===============
 
 Here is the list of authors who worked in this project
